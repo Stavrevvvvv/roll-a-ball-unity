@@ -35,7 +35,7 @@ A simple 3D game where the player controls a ball and collects objects around th
    ```
    Assets/Scenes
    ```
-2. Double click the main scene (e.g. `SampleScene`)
+2. Double click the main scene (e.g. `Mini game`)
 3. Press the **Play (▶️)** button
 
 ---
