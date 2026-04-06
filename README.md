@@ -1,4 +1,3 @@
-# roll-a-ball-unity
 # 🎮 Roll-a-Ball Unity Project
 
 This project is a modified version of the Unity *Roll-a-Ball* tutorial.
